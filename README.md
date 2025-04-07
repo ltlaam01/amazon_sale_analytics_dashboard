@@ -1,1 +1,1 @@
-# Amazon Sale Report Analytics Dashboard
+# Amazon Sale Analytics Dashboard
